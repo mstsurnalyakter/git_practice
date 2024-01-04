@@ -1,2 +1,2 @@
 # Git Practice
-## Master master
+## Resolve merge conflict on GitHub.
